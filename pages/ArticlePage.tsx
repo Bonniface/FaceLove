@@ -138,15 +138,15 @@ const ArticlePage: React.FC = () => {
               
               <div className="p-4 border-t border-[#f3e7ed] text-text-main font-medium">Deep Hydration</div>
               <div className="p-4 border-t border-l border-[#f3e7ed] text-center"><span className="material-symbols-outlined text-gray-400">check</span></div>
-              <div className="p-4 border-t border-l border-[#f3e7ed] text-center bg-primary/5"><span class="material-symbols-outlined text-primary font-bold">check_circle</span></div>
+              <div className="p-4 border-t border-l border-[#f3e7ed] text-center bg-primary/5"><span className="material-symbols-outlined text-primary font-bold">check_circle</span></div>
               
               <div className="p-4 border-t border-[#f3e7ed] text-text-main font-medium">Portable Stick Format</div>
-              <div className="p-4 border-t border-l border-[#f3e7ed] text-center"><span class="material-symbols-outlined text-red-400">close</span></div>
-              <div className="p-4 border-t border-l border-[#f3e7ed] text-center bg-primary/5"><span class="material-symbols-outlined text-primary font-bold">check_circle</span></div>
+              <div className="p-4 border-t border-l border-[#f3e7ed] text-center"><span className="material-symbols-outlined text-red-400">close</span></div>
+              <div className="p-4 border-t border-l border-[#f3e7ed] text-center bg-primary/5"><span className="material-symbols-outlined text-primary font-bold">check_circle</span></div>
               
               <div className="p-4 border-t border-[#f3e7ed] text-text-main font-medium">Use Over Makeup</div>
-              <div className="p-4 border-t border-l border-[#f3e7ed] text-center"><span class="material-symbols-outlined text-red-400">close</span></div>
-              <div className="p-4 border-t border-l border-[#f3e7ed] text-center bg-primary/5"><span class="material-symbols-outlined text-primary font-bold">check_circle</span></div>
+              <div className="p-4 border-t border-l border-[#f3e7ed] text-center"><span className="material-symbols-outlined text-red-400">close</span></div>
+              <div className="p-4 border-t border-l border-[#f3e7ed] text-center bg-primary/5"><span className="material-symbols-outlined text-primary font-bold">check_circle</span></div>
             </div>
           </div>
 
@@ -211,7 +211,7 @@ const ArticlePage: React.FC = () => {
 
           {/* Comments Section */}
           <div className="border-t border-[#f3e7ed] pt-8 pb-24">
-            <h3 class="text-xl font-bold mb-6">Recent Comments</h3>
+            <h3 className="text-xl font-bold mb-6">Recent Comments</h3>
             <div className="space-y-6">
               <div className="flex gap-4">
                 <div className="w-10 h-10 rounded-full bg-gray-200 shrink-0 bg-cover" style={{ backgroundImage: "url('https://lh3.googleusercontent.com/aida-public/AB6AXuATBl7UjOCgw1E4jxFwKxo-uYbhvcihrDTHlVmHjlEt-U_PjJSQbdnfgTMIexQsO3OfcS896-kxvF2raTXU4kxWLPj5McgZX8zAmbyPJ__t9k22Ww9HtEWK1c5vSC3194kM2krGldGa7xqweVyAwRqcg9VMtOFLrcjHAQAxFAIYuJD4zZvx6EHor1ugEu4OoNRxaDRtXi88CYnzgvGSK3qctWZEJbiIG7xjJhU2dpvKwkD1U-f-b4n0fX3veDtX9ZE7hKV3KtQ8c8w')" }}></div>
